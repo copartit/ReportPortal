@@ -1,0 +1,9 @@
+{
+  "envs": [
+    {
+      "app": "reportportal",
+      "track": "c-dev4",
+      "stack": "c"
+    }
+  ]
+}
